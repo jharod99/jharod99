@@ -15,8 +15,8 @@ Ingeniero en Gestión Empresarial especializado en **Automatización de Procesos
 - **Datos y Gestión Empresarial:** Power BI, Oracle Cloud ERP, Pandas.
 
 ### 📫 Cómo contactarme
-- **LinkedIn:** [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tu-enlace-aqui)
-- **Email:** tu.correo@email.com
+- **LinkedIn:** Jharod De La Cruz, https://www.linkedin.com/in/jharod/
+- **Email:** jharodlcv@email.com
 
 ---
 ⭐️ *Construyendo herramientas donde la ingeniería de negocios se encuentra con la eficiencia del código.*

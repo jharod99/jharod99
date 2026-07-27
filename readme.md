@@ -16,7 +16,7 @@ Ingeniero en Gestión Empresarial especializado en **Automatización de Procesos
 
 ### 📫 Cómo contactarme
 - **LinkedIn:** Jharod De La Cruz, https://www.linkedin.com/in/jharod/
-- **Email:** jharodlcv@email.com
+- **Email:** jharodlcv@gmail.com
 
 ---
 ⭐️ *Construyendo herramientas donde la ingeniería de negocios se encuentra con la eficiencia del código.*

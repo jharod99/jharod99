@@ -5,7 +5,7 @@ Ingeniero en Gestión Empresarial especializado en **Automatización de Procesos
 ### 🚀 Sobre mí
 - ⚙️ **Enfoque principal:** Automatización de flujos de trabajo, *Strategic Sourcing*, manipulación de datos y optimización de la cadena de suministro.
 - 🏢 **Experiencia Operativa:** Diseño de soluciones tecnológicas para áreas de compras y operaciones, enfocándome en herramientas que generen un alto **Impacto** y reduzcan tiempos operativos.
-- 🏗️ **Desarrollo Destacado:** Creación de motores de automatización complejos, como *El Blindado* (v13.5), diseñados para automatizar la lógica de cotización de paquetes y el *sourcing* estratégico.
+- 🏗️ **Desarrollo Destacado:** Creación de motores de automatización complejos, diseñados para automatizar la lógica de cotización de paquetes y el *sourcing* estratégico.
 - 🎮 **Proyectos paralelos:** Aplicación de lógicas complejas en el desarrollo de mecánicas interactivas y videojuegos (Godot Engine).
 
 ### 🛠️ Stack Tecnológico y Entornos
